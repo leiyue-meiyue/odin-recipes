@@ -1,0 +1,11 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+ul.menu {
+    list-style: none;
+}
+
+ul a {
+    text-decoration: none;
+}
