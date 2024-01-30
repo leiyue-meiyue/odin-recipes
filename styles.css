@@ -2,10 +2,50 @@
     font-family: Tahoma, sans-serif;
 }
 
+.page {
+    margin: 20px 100px;
+    /* background-color: green; */
+}
+
 ul.menu {
     list-style: none;
+    list-style-type: none;
+    padding: 0;
 }
 
 ul a {
     text-decoration: none;
+}
+
+/* .unindented-list {
+    padding: 0 16px;
+} */
+
+h1#title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title-box {
+    border: black dotted 5px;
+    /* background-color: aqua; */
+    width: 205px;
+    padding: 0 15px;
+}
+
+.menu {
+    margin-top: 20px;
+    margin-left: 0;
+}
+
+li.menu-list {
+    /* margin-bottom: 16px; */
+    display: inline;
+    margin-left: 0;
+}
+
+.menu-item {
+    background-color: lightpink;
+    padding: 16px;
+    margin-left: 0;
 }
